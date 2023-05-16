@@ -1,0 +1,18 @@
+id: ID8069ADB
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:55.989884
+last_modified: 2023-01-04 11:29:55.989890
+source_metadata:
+  collections:
+  - Bengar Jampal Zangpo
+  - Works of Tibetan Masters
+bases:
+  9E49:
+    title: Invoking the Blessings of the Kagyü Lineage—‘Dorjechang Thungma’
+    base_file: 9E49.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
